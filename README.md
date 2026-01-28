@@ -29,4 +29,6 @@ aku tidak terlibat pada apa pun yg terjadi
 ## Lisensi
 MIT
 ```
-![SKEMA](TimerBom-esp8266/skema.jpg)
+# SKEMA
+## GA BISA BACA?, ga ngurus gw🗿
+![SKEMA](/skema.jpg)
