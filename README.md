@@ -11,7 +11,7 @@
 
 ## WIFI
 SSID: KAISAR PEDO
-PW  : 123456
+PW  : 12345678
 
 ## Instalasi
 Cari aja di YouTube/lainnya "cara upload firmware ke esp8266"
@@ -32,3 +32,14 @@ MIT
 # SKEMA
 ## GA BISA BACA?, ga ngurus gw🗿
 ![SKEMA](/skema.jpg)
+# Video
+
+### buka aja di ig, tiktok, atau fb gw
+
+- tiktok `tiktok.com/@kaisar_pedo`
+- ig     `instagram.com/kaisar_pedo`
+- fb     `facebook.com/share/1Fd9jRh92R`
+- x      `x.com/kaisar_pedo`
+- yt     `youtube.com/@kaisarpedo`
+
+  *sorry buat asal² an🗿*
