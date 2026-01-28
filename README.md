@@ -43,5 +43,6 @@ MIT
 - fb     `facebook.com/share/1Fd9jRh92R`
 - x      `x.com/kaisar_pedo`
 - yt     `youtube.com/@kaisarpedo`
+- gh     `github.com/KaisarPedo`
 ***
   *sorry buat asal² an🗿*
