@@ -34,7 +34,9 @@ MIT
 # SKEMA
 ## GA BISA BACA?, ga ngurus gw🗿
 ![SKEMA](/skema.jpg)
+# PICT
 ![p](/1.jpg)
+![](/2.jpg) 
 # Video
 
 ### buka aja di ig, tiktok, atau fb gw
