@@ -1,6 +1,3 @@
-### skema ada yg salah sory, buat tm 1637 CLK dan DIO dibalik
-
-
 ### pen file mentah(.ino) dm😂
 ***
 ## Timer Pakai esp8266
@@ -37,6 +34,7 @@ MIT
 # SKEMA
 ## GA BISA BACA?, ga ngurus gw🗿
 ![SKEMA](/skema.jpg)
+![p](/1.jpg)
 # Video
 
 ### buka aja di ig, tiktok, atau fb gw
