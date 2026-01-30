@@ -1,3 +1,6 @@
+### skema ada yg salah sory, buat tm 1637 CLK dan DIO dibalik
+
+
 ### pen file mentah(.ino) dm😂
 ***
 ## Timer Pakai esp8266
